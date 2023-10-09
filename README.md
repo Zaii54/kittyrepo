@@ -3,7 +3,7 @@ This is a repository that I created to help others develop their websites in Rea
 # good luck friends 
 
 
-## Tech stack
+## Tech stacnb
 * [React](https://github.com/facebook/react) & [React Router 4](https://github.com/ReactTraining/react-router)
 * [Node](https://github.com/nodejs) & [Express](https://github.com/expressjs/express)
 
